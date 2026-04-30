@@ -13,6 +13,7 @@ A curated list of awesome laser-cutting resources.
 - [Apps](#apps)
 - [On Demand Laser Cutting](#on-demand-laser-cutting)
 - [Artists](#artists)
+- [Tutorials](#tutorials)
 
 <!-- tocstop -->
 
@@ -108,3 +109,11 @@ Check out [Keebtalk] for a longer list of laser cutting services.
     using materials like plywood, paper, concrete, and magnets.
 
 [Steven Mattern]: https://www.instagram.com/stevenmattern
+
+
+## Tutorials
+
+- [How to paint fill any project] - Acrylic paint fill technique
+    for laser-engraved projects.
+
+[How to paint fill any project]: https://www.youtube.com/watch?v=nhFNfeCsINM
