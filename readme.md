@@ -60,6 +60,7 @@ A curated list of awesome laser-cutting resources.
 
 ## Software
 
+- [Kenzap Nesting] - Free desktop DXF nesting app with live preview and engraving layers.
 - [Lasercut.scad] - Module for OpenSCAD
     to create 3D models from 2d lasercut parts.
 - [LaserWeb] - Node.js based host software for laster-cutters.
